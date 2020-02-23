@@ -1,6 +1,6 @@
 {
   "name": "ICTU/ictuwp-must-use",
-  "type": "wordpress-muplugin",
+  "type": "ictuwp-must-use",
   "license": "GPL-3.0",
   "description": "Must-use plugins for ICTU WP-install",
   "homepage": "https://www.gebruikercentraal.nl",
